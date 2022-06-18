@@ -39,7 +39,7 @@ function formatTime(time){
 }
 
 
-//initial call
+
 
 countdown();
 
